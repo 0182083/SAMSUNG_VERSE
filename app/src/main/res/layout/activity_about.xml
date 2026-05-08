@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal">
+
+    <!-- App Name -->
+    <TextView
+        android:id="@+id/tvAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Samsung Verse"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginTop="24dp"/>
+
+    <!-- App Version (AUTO) -->
+    <TextView
+        android:id="@+id/tvVersion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Version"
+        android:textSize="14sp"
+        android:layout_marginTop="4dp"/>
+
+    <!-- Divider -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#DDDDDD"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="24dp"/>
+
+    <!-- App Description -->
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Samsung Verse is a platform where users can connect, share posts, follow clubs, and stay updated with the Verse."
+        android:textSize="16sp"
+        android:gravity="center"
+        android:lineSpacingExtra="4dp"/>
+
+    <!-- Developer Name -->
+    <TextView
+        android:id="@+id/tvDeveloper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_marginTop="32dp"/>
+</LinearLayout>
