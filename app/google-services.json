@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876360948989",
+    "project_id": "samsung-verse-7eb4a",
+    "storage_bucket": "samsung-verse-7eb4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876360948989:android:788edb4cdd845c66a9b294",
+        "android_client_info": {
+          "package_name": "com.safayet.samsungverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAINQHbWCgmKz95_hNsqsR7_fEMHa2AjbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

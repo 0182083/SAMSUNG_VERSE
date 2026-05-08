@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Honor Community</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_login">Already have an account? Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_description">
+        Honor Community is a platform where users can connect, share posts, follow clubs, and stay updated with the community.
+    </string>
+    <string name="developer_name">Developed by Tushar Kanty Das</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_coming">Coming soon...</string>
+
+    <string name="logout">Log out</string>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_discover"
+        android:title="Discover"
+        android:icon="@drawable/ic_discover"/>
+
+    <item
+        android:id="@+id/nav_club"
+        android:title="Club"
+        android:icon="@drawable/ic_club"/>
+
+    <item
+        android:id="@+id/nav_me"
+        android:title="Me"
+        android:icon="@drawable/ic_me"/>
+
+</menu>
