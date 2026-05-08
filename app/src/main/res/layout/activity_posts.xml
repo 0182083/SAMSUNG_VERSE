@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etPost"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:hint="Write your post..."
+        android:gravity="top"
+        android:background="@drawable/bg_post_edit"
+        android:padding="16dp"
+        android:textSize="16sp"
+        android:inputType="textMultiLine"/>
+
+    <Button
+        android:id="@+id/btnPublic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Public Post"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/bg_public_post_button"
+        android:textColor="#FFFFFF"
+        android:textAllCaps="false"/>
+</LinearLayout>
